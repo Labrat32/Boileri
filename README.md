@@ -20,3 +20,6 @@ npm start
 # (Config: webpack.common.js + webpack.prod.js)
 npm run build
 ```
+
+# This README now belongs to me
+
